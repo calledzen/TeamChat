@@ -1,0 +1,6 @@
+name: TeamChat
+version: 1.0
+main: de.simon.TC.main.Main
+commands:
+   tc:
+      aliases: teamchat
